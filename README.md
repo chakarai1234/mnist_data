@@ -69,4 +69,5 @@ def train_neural_network(x):
         Accurate = str(sess.run(tf.multiply(accuracy.eval({x:mnist.test.images, y:mnist.test.labels}),100)))+"%"
         print('Accuracy:',Accurate)
 
-train_neural_network(x)````
+train_neural_network(x)
+````
