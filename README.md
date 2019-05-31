@@ -1,5 +1,5 @@
 # MNIST-Data
--> Tensor <-
+->Tensor<-
 
 ````python
 import tensorflow as tf
