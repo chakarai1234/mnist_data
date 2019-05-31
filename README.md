@@ -1,5 +1,5 @@
 # MNIST-Data
-<p align = "center";>Tensorflow Python MNIST Data</p>
+-> Tensor <-
 
 ````python
 import tensorflow as tf
